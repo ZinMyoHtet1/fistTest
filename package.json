@@ -1,0 +1,18 @@
+{
+  "name": "mail-letter",
+  "version": "1.0.0",
+  "description": "This is mail letter web",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Zin",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "https": "^1.0.0",
+    "request": "^2.88.2"
+  }
+}
